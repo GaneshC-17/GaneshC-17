@@ -1,149 +1,139 @@
-<!--
-  GANESH — GitHub Profile README
-  Art direction: Nexora-inspired editorial SaaS / black / white / lime
-  Replace the repository placeholders and social links before publishing.
---><div align="center"><!-- HERO / BRAND -->
-<a href="https://github.com/GaneshC-17">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=190&section=header&text=GANESH.&fontSize=72&fontColor=FFFFFF&fontAlignY=42&desc=AI%20ENGINEER%20%2F%20FULL-STACK%20DEVELOPER&descSize=17&descColor=A5FF36&descAlignY=72" alt="Ganesh — AI Engineer and Full-Stack Developer"/>
-</a>
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=16&duration=2800&pause=900&color=171717&center=true&vCenter=true&width=720&lines=BUILDING+INTELLIGENCE.;ENGINEERING+USEFUL+SOFTWARE.;IDEAS+INTO+IMPACT." alt="Animated introduction"/>
-<a href="https://github.com/GaneshC-17">
-  <img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Explore my GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LET'S_CONNECT-A5FF36?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" alt="Connect on LinkedIn"/>
-</a></div>
-<!-- INTRO / EDITORIAL GRID -->
-<table>
+<div align="center"><!-- NAVIGATION -->
+<table width="100%">
 <tr>
-<td width="28%" valign="top">BUILT FOR
-
-BIGGER IDEAS
-
-────────
-
-01 / PROFILE
+<td align="left"><h2>Ganesh<span style="color:#16852A">.</span></h2></td>
+<td align="center"><a href="#projects">Projects</a> &nbsp; · &nbsp; <a href="#stack">Stack</a> &nbsp; · &nbsp; <a href="#stats">Stats</a> &nbsp; · &nbsp; <a href="#contact">Contact</a></td>
+<td align="right"><a href="https://github.com/GaneshC-17"><img src="https://img.shields.io/badge/AVAILABLE_FOR_OPPORTUNITIES-0D0D0D?style=for-the-badge&logoColor=A5FF36" /></a></td>
+</tr>
+</table><hr/></div><table width="100%">
+<tr>
+<td width="22%" valign="top">
+<br/><br/>
+<b>BUILT FOR<br/>BIGGER IDEAS</b><br/>
+━━━━━━━━━━
 </td>
-<td width="72%" valign="top">I BUILD SOFTWARE THAT THINKS.
-I'm Ganesh — an AI Engineer & Full-Stack Developer exploring the intersection of intelligent systems, product engineering, and thoughtful design.
+<td width="58%" valign="top">THE ALL-IN-ONE
+DEVELOPER FOR
+<font color="#16852A">AI & FULL-STACK</font>
+</td>
+<td width="20%" valign="top">
+<br/>
+I design, build, and deploy scalable web applications and AI-powered solutions that solve real problems.<br/><br/>
+<a href="#projects"><img src="https://img.shields.io/badge/EXPLORE_MY_WORK-9BFF43?style=for-the-badge&logoColor=black" /></a>
+</td>
+</tr>
+</table><div align="center"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=22&duration=2500&pause=900&color=16852A&center=true&vCenter=true&width=700&lines=BUILDING+INTELLIGENT+PRODUCTS;ENGINEERING+FROM+IDEA+TO+DEPLOYMENT;AI+%2B+FULL-STACK+DEVELOPMENT" />
+AI / ML  　 FULL-STACK  　 AUTOMATION  　 CLOUD & DEVOPS
+</div><!-- DASHBOARD / HERO VISUAL -->
+<div align="center">
+<a href="https://github.com/GaneshC-17">
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=GaneshC-17&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=111111&icon_color=16852A&text_color=333333&include_all_commits=true&count_private=true" alt="Ganesh GitHub dashboard"/>
+</a>
+</div><div align="center"><img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,redis,docker,pytorch,git,github" />
+PYTHON　 FASTAPI　 REACT　 TYPESCRIPT　 POSTGRESQL　 REDIS　 DOCKER
+</div>
+<!-- FEATURE PANEL -->
+<table width="100%" bgcolor="#0D0D0D">
+<tr>
+<td width="42%" valign="middle"><sub><font color="#A5FF36">● WHY WORK WITH ME</font></sub>
+<font color="#FFFFFF">BUILD
+REAL PRODUCTS,
+<font color="#A5FF36">END-TO-END.</font></font>
+<font color="#DDDDDD">From product thinking to deployment, I build scalable, AI-powered solutions with a focus on performance, usability, and real-world impact.</font>
 
-I turn ideas into useful applications: from reliable backend systems to AI-powered experiences.
+
+
+
+<a href="#projects"><img src="https://img.shields.io/badge/VIEW_PROJECTS-FFFFFF?style=for-the-badge&logoColor=black" /></a>
+</td>
+<td width="32%" align="center" valign="middle"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshC-17&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A5FF36&text_color=FFFFFF&langs_count=6" alt="Languages dashboard"/></td>
+<td width="26%" valign="middle"><font color="#FFFFFF">
+AI / ML
+<font color="#A5FF36">LLMs · RAG · PyTorch</font>
+<hr/>
+FULL-STACK
+<font color="#A5FF36">FastAPI · React · APIs</font>
+<hr/>
+ENGINEERING
+<font color="#A5FF36">Systems · Databases · Cloud</font>
+</font>
 </td>
 </tr>
 </table>
-<!-- BIG TYPOGRAPHIC STATEMENT -->
-<div align="center"><span>BUILD</span> <span style="color:#16852A">INTELLIGENCE.</span>
-DESIGN WITH PURPOSE. · ENGINEER FOR IMPACT.
-</div>
-<!-- PROJECTS / BLACK FEATURE PANEL -->
-<table>
-<tr>
-<td bgcolor="#0D0D0D" width="100%"><div align="center"><sub><font color="#A5FF36">●  02 — SELECTED WORK</font></sub>
-<font color="#FFFFFF">IDEAS INTO</font> <font color="#A5FF36">IMPACT.</font>
-<font color="#BDBDBD">A selection of products and engineering experiments.</font>
-</div>
-<table>
-<tr>
-<td width="50%" valign="top"><div align="center"><font color="#FFFFFF">01 / REACHINBOX</font>
-<sub><font color="#A5FF36">EMAIL AUTOMATION PLATFORM</font></sub>
-</div>
-A full-stack email campaign platform with scheduling, delayed delivery, background processing, and delivery monitoring.
-
-STACK
-
-React · Node.js · PostgreSQL · Redis · BullMQ
+<!-- PROJECT CARDS -->
+<a id="projects"></a>
 <div align="center">
-VIEW PROJECT ↗
-</div></td>
-<td width="50%" valign="top"><div align="center"><font color="#FFFFFF">02 / STAYMATE</font>
-<sub><font color="#A5FF36">PG DISCOVERY PLATFORM</font></sub>
-</div>
-A modern accommodation discovery experience helping students and professionals find their next stay.
-
-STACK
-
-React · TypeScript · Tailwind · Backend TBD
-<div align="center">
-VIEW PROJECT ↗
-</div></td>
-</tr>
+<sub>●   PROJECTS</sub>
+Everything I build.
+<font color="#16852A">Built to make an impact.</font>
+</div><table width="100%">
 <tr>
-<td colspan="2" valign="top"><div align="center"><font color="#FFFFFF">03 / AI ENGINEERING LAB</font>
-<sub><font color="#A5FF36">INTELLIGENT APPLICATIONS</font></sub>
-</div>
-Experiments and projects across Machine Learning, LLM applications, RAG, AI agents, and model engineering.
+<td width="33%" valign="top"><div align="center"><img src="https://img.shields.io/badge/01-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/>ReachInbox
+</div>Full-stack email campaign scheduler with delayed delivery, background jobs, and delivery monitoring.
 
-FOCUS
-
-Python · PyTorch · Hugging Face · LLMs · RAG
+Node.js PostgreSQL Redis BullMQ
 <div align="center">
-EXPLORE ALL REPOSITORIES ↗
+<a href="https://github.com/GaneshC-17"><img src="https://img.shields.io/badge/VIEW_PROJECT-16852A?style=flat-square&logo=github&logoColor=white"/></a>
 </div></td>
-</tr>
-</table></td>
+<td width="33%" valign="top"><div align="center"><img src="https://img.shields.io/badge/02-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/>StayMate
+</div>A modern PG discovery platform helping students and professionals find accommodation.
+
+React TypeScript Tailwind Product Design
+<div align="center">
+<a href="https://github.com/GaneshC-17"><img src="https://img.shields.io/badge/VIEW_PROJECT-16852A?style=flat-square&logo=github&logoColor=white"/></a>
+</div></td>
+<td width="33%" valign="top"><div align="center"><img src="https://img.shields.io/badge/03-0D0D0D?style=for-the-badge&labelColor=0D0D0D"/>AI Engineering Lab
+</div>Experiments and applications in machine learning, LLMs, RAG, and AI agents.
+
+Python PyTorch Hugging Face LLMs
+<div align="center">
+<a href="https://github.com/GaneshC-17?tab=repositories"><img src="https://img.shields.io/badge/VIEW_PROJECTS-16852A?style=flat-square&logo=github&logoColor=white"/></a>
+</div></td>
 </tr>
 </table>
-<!-- TECH STACK STRIP -->
-<div align="center"><sub>03 — TOOLS OF THE TRADE</sub>
-
-
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,react,ts,postgres,redis,docker,pytorch,git,github&theme=light" alt="Python, FastAPI, React, TypeScript, PostgreSQL, Redis, Docker, PyTorch, Git and GitHub"/>
-PYTHON   /   FASTAPI   /   REACT   /   TYPESCRIPT   /   POSTGRESQL   /   REDIS   /   DOCKER   /   PYTORCH
-</div>
-<!-- FEATURE / WHY ME -->
-<table>
+<!-- STACK / FEATURES -->
+<a id="stack"></a>
+<table width="100%">
 <tr>
-<td width="35%" valign="top"><sub>04 — ENGINEERING PRINCIPLES</sub>
-<font color="#111111">WORK</font>
-
-<font color="#16852A">SMARTER.</font>
-
-<font color="#111111">BUILD</font>
-
-<font color="#16852A">BETTER.</font>
+<td width="30%" valign="top">
+<sub>●   TECHNOLOGY</sub>
+Everything
+you need in
+<font color="#16852A">one stack.</font>
+Powerful tools to build, ship, and scale.
 </td>
-<td width="65%" valign="top">	
-01 / THINK	Understand the problem before choosing the technology.
-02 / BUILD	Create maintainable systems with a strong engineering foundation.
-03 / SHIP	Turn prototypes into usable, reliable products.
-
-
+<td width="23%" valign="top">◉ AI & ML
+Python, PyTorch, TensorFlow, Hugging Face, LLMs, RAG
+</td>
+<td width="23%" valign="top">↯ Full-Stack
+FastAPI, React, TypeScript, Node.js, REST APIs
+</td>
+<td width="24%" valign="top">▥ Systems
+PostgreSQL, Redis, Docker, Git, AWS
 </td>
 </tr>
 </table>
-<!-- GITHUB ANALYTICS -->
-<div align="center"><sub>05 — GITHUB / ACTIVITY & ANALYTICS</sub>
-<font color="#111111">THE WORK.</font> <font color="#16852A">IN NUMBERS.</font>
+<!-- STATS -->
+<a id="stats"></a>
+<div align="center">
+<sub>●   GITHUB ANALYTICS</sub>
+Activity & Stats<span style="color:#16852A">.</span>
+<img width="49%" src="https://streak-stats.demolab.com?user=GaneshC-17&hide_border=true&background=FFFFFF&ring=16852A&fire=16852A&currStreakLabel=16852A&sideLabels=111111&currStreakNum=111111&sideNums=111111&dates=777777" alt="GitHub streak"/>
+<img width="49%" src="https://github-profile-trophy.vercel.app/?username=GaneshC-17&theme=flat&no-frame=true&no-bg=true&column=4" alt="GitHub trophies"/><img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshC-17&bg_color=FFFFFF&color=111111&line=16852A&point=16852A&area=true&hide_border=true" alt="Contribution graph"/></div>
+<!-- CONTACT -->
+<a id="contact"></a>
+<div align="center">
+<sub>●   LET'S CONNECT</sub>
+Ideas into <font color="#16852A">impact.</font>
+Building something interesting? Let's talk.
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=GaneshC-17&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=A5FF36&icon_color=A5FF36&text_color=FFFFFF&ring_color=A5FF36" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshC-17&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A5FF36&text_color=FFFFFF&langs_count=8" alt="Top languages"/>
-
-
-<img width="70%" src="https://streak-stats.demolab.com?user=GaneshC-17&hide_border=true&background=0D0D0D&ring=A5FF36&fire=A5FF36&currStreakLabel=A5FF36&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" alt="GitHub streak"/>
-
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshC-17&bg_color=0D0D0D&color=A5FF36&line=16852A&point=FFFFFF&area=true&hide_border=true" alt="Contribution activity graph"/>
-<img src="https://github-profile-trophy.vercel.app/?username=GaneshC-17&theme=darkhub&no-frame=true&no-bg=true&column=6" alt="GitHub trophies"/></div>
-<!-- CONNECT / FOOTER -->
-<div align="center"><sub>06 — OPEN TO COLLABORATION</sub>
-<font color="#111111">HAVE A BIG</font> <font color="#16852A">IDEA?</font>
-Let's build something meaningful.
-
-<a href="https://github.com/GaneshC-17">
-<img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-A5FF36?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="mailto:YOUR_EMAIL@example.com">
-<img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email"/>
-</a>
+<a href="https://github.com/GaneshC-17"><img src="https://img.shields.io/badge/GITHUB-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/></a>
+ 
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-16852A?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ 
+<a href="mailto:YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/EMAIL-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-<sub>DESIGNED WITH INTENT. BUILT WITH CURIOSITY.</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=70&section=footer" width="100%" alt=""/></div>
+<img src="https://komarev.com/ghpvc/?username=GaneshC-17&style=flat&color=16852A&label=PROFILE+VIEWS"/>DESIGNED WITH INTENT. BUILT WITH CURIOSITY.
+</div>
